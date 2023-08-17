@@ -38,12 +38,10 @@ The Text Editor Web Application is designed to provide a seamless and functional
    npm install
    ```
 
-```
 Run the application using the following command:
+
 ```
-
 npm run start
-
 ```
 
 Access the application by opening your browser and navigating to the provided URL.
@@ -51,4 +49,3 @@ Access the application by opening your browser and navigating to the provided UR
 ## Credits
 
 This application was created by Andrea Ceron with code from Edx/Tecnologico de Monterrey.
-```
